@@ -1,0 +1,53 @@
+{
+    "name": "NFT #8",
+    "symbol": "FUNK",
+    "description": "NFT #8 - Generated and deployed on LaunchMyNFT.",
+    "seller_fee_basis_points": 250,
+    "image": "/8.png",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "4"
+        },
+        {
+            "trait_type": "CLOTHES",
+            "value": "1 (4)"
+        },
+        {
+            "trait_type": "FACE",
+            "value": "FACE - Copy (2)"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "2 (3)"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "3 (6)"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "4 (1)"
+        },
+        {
+            "trait_type": "SUNGLASSES",
+            "value": "6 (4)"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "/8.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "5NbiTWdQy14kDvJKfjyRZ9j6UJ9GtATdYKNXTBVLnyLE",
+                "share": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+Wrote new keypair to /Users/neo/KeyStrokes/cm3/CMV3Creator.json
+==========================================================================
+pubkey: C9Y1qDY8xM8KEBSeGckRPfqP5iBkDhrc8KVzkyBoJPhN
+==========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+laptop sign talent spring behave gallery snow mimic ride urge earn goddess
+==========================================================================

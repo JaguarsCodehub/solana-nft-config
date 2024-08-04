@@ -1,0 +1,5 @@
+OG WALLET merkle Tree
+ca2fb930c5a88dfc685d42edd7c72c4f31b19d76b6f552e35509bf1e5705b4cc
+
+Whitelist merkle Tree
+9e64314b0852ff036fa15539d8fe84fc4931f1b15781a7e6cfa299fa669d2769
